@@ -2,8 +2,8 @@
 
 /**
  * main - use of printf
- *
- * return 0 when Success
+ *Description: Prints a piece of art with proper grammar
+ * Return:0 (Success)
  */
 int main(void)
 {
