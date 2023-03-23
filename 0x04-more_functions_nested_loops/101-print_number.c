@@ -17,14 +17,3 @@ void print_number(int n)
 
     _putchar((n % 10) + '0');
 }
-/**
- * main - Entry point
- *
- * Return: Always 0
- */
-int main(void)
-{
-    print_number(12345);
-    _putchar('\n');
-    return (0);
-}
