@@ -96,5 +96,5 @@ char **strtow(char *str)
 
 	words[word_count] = NULL;
 
-	return words;
+	return (words);
 }
